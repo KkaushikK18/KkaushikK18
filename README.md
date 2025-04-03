@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @KkaushikK18
-- 👀 I’m interested in Web Development and App Development.
-- 🌱 I’m currently learning Backend Development (MERN Stack)
-- 📫 How to reach me : kaushikk06703@gmail.com
-- 😄 Pronouns: he/him
+📌 About Me
+👋 Hi, I'm Kaushik – a passionate Web Developer who loves building innovative solutions!
+🚀 Always exploring new technologies and contributing to open-source projects.
+
+Skills & Technologies
+🔹 Languages: JavaScript, Python, C++, Java, C
+🔹 Frontend: React.js, Next.js, Tailwind CSS
+🔹 Backend: Node.js, MongoDB
+🔹 Tools & Platforms: Git, Firebase
+🔹 APIs & Integrations: REST APIs, IP API, Google Maps API
+
+ Projects
+🔹 BloodBond – A platform connecting hospitals and users for blood donation 🚑
+🔹 CryptoPlace – A cryptocurrency marketplace for favourite cryptocurrencies.
+🔹 Password Generator & Analyzer - It generates strong passwords and analyses the weak ones.
+
+📫 Contact Me
+📩 Email: kkaushikk6703@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/kaushik-kumar-354532293/
+
+
+
+
+
+
+
 
 <!---
 KkaushikK18/KkaushikK18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
