@@ -12,10 +12,9 @@ Skills & Technologies
  Projects
 🔹 BloodBond – A platform connecting hospitals and users for blood donation 🚑
 🔹 CryptoPlace – A cryptocurrency marketplace for favourite cryptocurrencies.
-🔹 Password Generator & Analyzer - It generates strong passwords and analyses the weak ones.
 
 📫 Contact Me
-📩 Email: kkaushikk6703@gmail.com
+📩 Email: kaushikk6703@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/kaushik-kumar-354532293/
 
 
