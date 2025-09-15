@@ -17,6 +17,8 @@ Skills & Technologies
 📩 Email: kaushikk6703@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/kaushik-kumar-354532293/
 
+Portfolio : https://kaushik18portfolio.vercel.app/
+
 
 
 
