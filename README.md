@@ -9,28 +9,6 @@
 
 </div>
 
-## 🚀 About Me
-
-Computer Science undergraduate at **Vellore Institute of Technology** with a passion for building intelligent solutions at the intersection of **Machine Learning**, **Deep Learning**, and **Web Development**. Currently diving deep into AI/ML while exploring cutting-edge technologies in computer vision and predictive modeling.
-
-🔭 **Currently Working On:** HDR to SDR Image Conversion at Samsung R&D Institute India  
-🌱 **Currently Learning:** Advanced Deep Learning, Computer Vision, and MLOps  
-🏆 **Achievements:** 1st Place at AlgoConnect Hackathon | 3rd Place at Innovate For Impact  
-📍 **Location:** Chennai, Tamil Nadu, India
-
----
-
-## 💼 Experience
-
-### 🔬 Research Intern @ Samsung R&D Institute India
-**September 2025 - Present**
-- Working on Computer Vision project focusing on HDR to SDR image conversion for mobile devices
-- Implementing deep learning techniques for image tone mapping and dynamic range compression
-- Collaborating with a research team to optimize visual quality for mobile hardware constraints
-- Conducting literature surveys and dataset preparation for real-world deployment
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -70,32 +48,6 @@ Computer Science undergraduate at **Vellore Institute of Technology** with a pas
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## 🎯 Featured Projects
-
-### 🏦 [AI-Powered Alternative Credit Scoring System](https://github.com/yourusername/credit-scoring)
-**Tech Stack:** MERN Stack, Flask, Random Forest, Google Gemini API, TailwindCSS
-
-Built an intelligent credit scoring platform that leverages machine learning to predict credit scores and provide personalized financial coaching. Features include real-time credit score breakdown dashboards, dynamic factor analysis, and AI-powered chatbot support for score improvement recommendations.
-
-**Key Highlights:**
-- Developed ML model (Random Forest) served via Flask API
-- Integrated Google Gemini API for personalized financial insights
-- Created interactive dashboards with real-time data visualization
-- Deployed full-stack application with modern UI/UX
-
-### 🏥 [AI-Driven Risk Prediction for Chronic Care Patients](https://github.com/yourusername/risk-prediction)
-**Tech Stack:** Python, Scikit-learn, XGBoost, Dash, MIMIC-IV Dataset
-
-Designed an ensemble ML pipeline for clinical decision support that achieves exceptional predictive performance (AUROC up to 0.99). Built an interactive dashboard enabling real-time risk simulation with patient-level explanations and transparent feature importance.
-
-**Key Highlights:**
-- Ensemble ML pipeline with XGBoost, Random Forest, and Logistic Regression
-- Interactive clinician dashboard for real-time risk assessment
-- Explainable AI features for transparent clinical decisions
-- Integrated demographics, lab values, and clinical scores
 
 ---
 
