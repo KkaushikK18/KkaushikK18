@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=220&section=header&text=Hi%20There,%20I'm%20Kaushik&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=ML/GenAI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=220&section=header&text=Hi%20There,%20I'm%20Kaushik&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=ML/GenAI%20Engineer%20%7C%20&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://kaushik18portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-05122A?style=for-the-badge&logo=vercel&logoColor=7AA2F7" /></a>
 <a href="mailto:kaushikk06703@gmail.com"><img src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
