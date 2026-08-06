@@ -21,11 +21,11 @@ $ whoami
 
 ```yaml
 Name       : Kaushik
-Role       : ML/GenAI Engineer • Full-Stack Developer • Security Enthusiast
+Role       : ML/GenAI Engineer
 Education  : B.Tech Computer Science, VIT Chennai — Class of 2027
 Currently  : Shipping AI systems end-to-end — model design → deployment
-Focus      : LLMs • RAG • Vector Search • Anomaly Detection • Full-Stack Delivery
-Fun fact   : Hackathons are my favorite way to prove an idea actually works
+Focus      : LLMs • RAG • Vector Search • Langchain
+Fun fact   : my code compiles better when the playlist hits right, no cap
 ```
 
 <br/>
@@ -36,8 +36,8 @@ Fun fact   : Hackathons are my favorite way to prove an idea actually works
 - 🧠 Deep into **RAG pipelines** — building Text2SQL systems powered by LLMs and vector search
 - 🛡️ Balancing ML depth with **security-first engineering** — from anomaly detection to Zero Trust research
 - ⚙️ Comfortable owning the full stack: data → model → API → deployed product
-- 🌱 Always learning — embedded systems, formal methods, and GenAI tooling in parallel
-- ⚡ Fun fact: I think the best way to learn something is to build it, break it, then explain it
+- 🌱 Always learning — GenAI with some backend stuffs in parallel
+- ⚡ Fun fact: 🎧 Debugging hits different with the right playlist — coding and music are a package deal for me
 
 <br/>
 
