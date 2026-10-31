@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Kaushik Kumar — AI and Software Engineering</title>
+  <desc id="desc">A dark blue abstract technology banner with the name Kaushik Kumar and a focus on AI and software engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101820"/>
+      <stop offset=".55" stop-color="#172B3A"/>
+      <stop offset="1" stop-color="#253B4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#79A6B8"/>
+      <stop offset="1" stop-color="#B9D7D9"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#C8D9E5" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="270" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="270" rx="22" fill="url(#grid)"/>
+  <circle cx="1030" cy="40" r="190" fill="#79A6B8" opacity=".07"/>
+  <circle cx="1100" cy="235" r="125" fill="#B9D7D9" opacity=".06"/>
+  <path d="M820 0L970 0L760 270L610 270Z" fill="#79A6B8" opacity=".055"/>
+  <path d="M1080 0H1110L900 270H870Z" fill="#D5E7EB" opacity=".08"/>
+  <path d="M70 208H180" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="70" y="108" fill="#F1F5F9" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="2">KAUSHIK KUMAR</text>
+  <text x="72" y="151" fill="#B9D7D9" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="3">COMPUTER SCIENCE UNDERGRADUATE</text>
+  <text x="72" y="185" fill="#C3CFD8" font-family="Segoe UI,Arial,sans-serif" font-size="17">AI  /  MACHINE LEARNING  /  GENAI  /  SOFTWARE ENGINEERING</text>
+  <g fill="#B9D7D9" opacity=".7">
+    <circle cx="1000" cy="82" r="4"/><circle cx="1032" cy="82" r="4"/><circle cx="1064" cy="82" r="4"/>
+    <circle cx="1000" cy="114" r="4"/><circle cx="1032" cy="114" r="4"/><circle cx="1064" cy="114" r="4"/>
+    <circle cx="1000" cy="146" r="4"/><circle cx="1032" cy="146" r="4"/><circle cx="1064" cy="146" r="4"/>
+  </g>
+  <text x="1128" y="238" fill="#A9BAC5" font-family="Consolas,monospace" font-size="12" text-anchor="end">BUILD • LEARN • ITERATE</text>
+</svg>
