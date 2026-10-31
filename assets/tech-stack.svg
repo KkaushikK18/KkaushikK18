@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="370" viewBox="0 0 1100 370" role="img" aria-labelledby="title desc">
+  <title id="title">Kaushik's technology stack</title>
+  <desc id="desc">Technology labels grouped into programming languages, machine learning, generative AI, backend engineering, and tools.</desc>
+  <rect x="1" y="1" width="1098" height="368" rx="18" fill="#101B25" stroke="#2B4658" stroke-width="2"/>
+  <text x="34" y="42" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="2">TOOLKIT / TECHNOLOGIES</text>
+  <text x="1064" y="42" fill="#79A6B8" font-family="Consolas,monospace" font-size="12" text-anchor="end">LEARN • BUILD • SHIP</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="34" y="91" fill="#79A6B8" font-size="12" font-weight="700" letter-spacing="1.5">LANGUAGES</text>
+    <g fill="#1B3040" stroke="#426477">
+      <rect x="34" y="105" width="130" height="37" rx="9"/><rect x="174" y="105" width="112" height="37" rx="9"/><rect x="296" y="105" width="148" height="37" rx="9"/><rect x="454" y="105" width="95" height="37" rx="9"/>
+    </g>
+    <g fill="#E3EDF3" font-size="14" font-weight="600" text-anchor="middle">
+      <text x="99" y="129">Python</text><text x="230" y="129">C++</text><text x="370" y="129">JavaScript</text><text x="501" y="129">SQL</text>
+    </g>
+    <text x="34" y="183" fill="#79A6B8" font-size="12" font-weight="700" letter-spacing="1.5">MACHINE LEARNING &amp; DEEP LEARNING</text>
+    <g fill="#1B3040" stroke="#426477">
+      <rect x="34" y="197" width="124" height="37" rx="9"/><rect x="168" y="197" width="146" height="37" rx="9"/><rect x="324" y="197" width="104" height="37" rx="9"/><rect x="438" y="197" width="104" height="37" rx="9"/><rect x="552" y="197" width="112" height="37" rx="9"/>
+    </g>
+    <g fill="#E3EDF3" font-size="13" font-weight="600" text-anchor="middle">
+      <text x="96" y="221">PyTorch</text><text x="241" y="221">scikit-learn</text><text x="376" y="221">NumPy</text><text x="490" y="221">Pandas</text><text x="608" y="221">OpenCV</text>
+    </g>
+    <text x="34" y="275" fill="#79A6B8" font-size="12" font-weight="700" letter-spacing="1.5">GENAI, BACKEND &amp; PLATFORMS</text>
+    <g fill="#1B3040" stroke="#426477">
+      <rect x="34" y="289" width="85" height="37" rx="9"/><rect x="129" y="289" width="78" height="37" rx="9"/><rect x="217" y="289" width="88" height="37" rx="9"/><rect x="315" y="289" width="112" height="37" rx="9"/><rect x="437" y="289" width="104" height="37" rx="9"/><rect x="551" y="289" width="94" height="37" rx="9"/><rect x="655" y="289" width="98" height="37" rx="9"/><rect x="763" y="289" width="87" height="37" rx="9"/><rect x="860" y="289" width="82" height="37" rx="9"/><rect x="952" y="289" width="112" height="37" rx="9"/>
+    </g>
+    <g fill="#E3EDF3" font-size="12" font-weight="600" text-anchor="middle">
+      <text x="76" y="313">LLMs</text><text x="168" y="313">RAG</text><text x="261" y="313">FAISS</text><text x="371" y="313">LangChain</text><text x="489" y="313">FastAPI</text><text x="598" y="313">Node.js</text><text x="704" y="313">MongoDB</text><text x="806" y="313">Docker</text><text x="901" y="313">AWS</text><text x="1008" y="313">Linux</text>
+    </g>
+  </g>
+  <path d="M34 346H1064" stroke="#79A6B8" stroke-opacity=".25"/>
+</svg>
