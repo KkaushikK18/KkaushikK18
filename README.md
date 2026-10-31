@@ -1,202 +1,136 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:161B22,100:1F2937&height=230&section=header&text=Hi%20There,%20I'm%20Kaushik&fontSize=44&fontColor=7AA2F7&fontAlignY=38&animation=fadeIn&desc=ML%20%2F%20GenAI%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descSize=18&descColor=BB9AF7" width="100%"/>
-
-<a href="https://kaushik18portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7AA2F7&labelColor=0D1117" /></a>
-<a href="mailto:kaushikk06703@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=0D1117" /></a>
-<a href="https://github.com/KkaushikK18"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BB9AF7&labelColor=0D1117" /></a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=KkaushikK18&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/KkaushikK18?label=FOLLOW&style=for-the-badge&color=bb9af7&logo=github&logoColor=white&labelColor=0D1117" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Machine+Learning+%2B+GenAI+%2B+Software+Engineering;Building+end-to-end+AI+systems;LLMs+%7C+RAG+%7C+Text2SQL+%7C+PyTorch;From+experimentation+to+usable+products" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## `$ whoami`
-
-```yaml
-Name      : Kaushik
-Role      : Computer Science Undergraduate | ML / GenAI Engineer
-Education : B.Tech Computer Science, VIT Chennai — Class of 2027
-Focus     : Machine Learning • Deep Learning • GenAI • Backend Systems
-Interests : LLMs • RAG • Text2SQL • Computer Vision • Applied AI
-```
-
-## `$ cat about.md`
-
-```text
-🔭  Building AI systems that combine machine learning, deep learning,
-    LLMs, retrieval, and practical application development.
-
-🧠  Exploring RAG and Text2SQL systems with LLMs, embeddings,
-    vector databases, and structured data workflows.
-
-🤖  Working with PyTorch and computer vision for deep-learning
-    projects such as image forgery detection.
-
-⚙️  Comfortable working across the stack — data → model → API → UI.
-
-📚  Currently strengthening DSA, ML/DL fundamentals, backend
-    engineering, and production-oriented AI development.
-
-🎧  Debugging gets easier with a good playlist.
-```
-
-## `$ cat tech_stack.sh`
+<!-- Profile README for KkaushikK18. Core information stays readable if optional embeds fail. -->
 
 <div align="center">
 
-**Languages & Core**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&section=header&text=KAUSHIK%20KUMAR&fontSize=48&fontColor=E6EDF3&fontAlignY=42&desc=CS%20UNDERGRADUATE%20%7C%20AI%20%26%20SOFTWARE%20ENGINEERING&descSize=15&descColor=9DA7B3&animation=fadeIn&color=0:101820,50:172B3A,100:253B4A" width="100%" alt="Kaushik Kumar profile banner" />
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=7AA2F7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=7AA2F7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=7AA2F7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=7AA2F7&labelColor=0D1117" />
+### Building practical AI systems, from models to usable products.
 
-**Machine Learning & Deep Learning**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-172B3A?style=for-the-badge&logo=vercel&logoColor=white)](https://kaushik18portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-172B3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikk06703@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-172B3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KkaushikK18)
 
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=BB9AF7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=BB9AF7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=BB9AF7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=BB9AF7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=BB9AF7&labelColor=0D1117" />
-
-**GenAI, LLMs & NLP**
-
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=F7768E&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=F7768E&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=F7768E&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=F7768E&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Text2SQL-0D1117?style=for-the-badge&logoColor=F7768E&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logoColor=F7768E&labelColor=0D1117" />
-
-**Backend & Engineering**
-
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=9ECE6A&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=9ECE6A&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=9ECE6A&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=9ECE6A&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=9ECE6A&labelColor=0D1117" />
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=9ECE6A&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=9ECE6A&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=9ECE6A&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=9ECE6A&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=KkaushikK18&style=flat-square&color=527D91&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+## About
 
-## `$ ls featured_builds/`
+I'm a Computer Science undergraduate at **VIT Chennai (Class of 2027)** interested in building reliable, end-to-end software with a focus on **Machine Learning, Deep Learning, and Generative AI**.
 
-<table width="100%">
-<tr>
-<td width="50%">
+- Exploring LLM applications, retrieval-augmented generation, and Text-to-SQL systems.
+- Building with PyTorch and computer vision, including image-forgery detection.
+- Interested in the engineering behind AI products: data pipelines, APIs, evaluation, and deployment.
+- Strengthening problem-solving, backend development, and system design fundamentals.
 
-**// RAG + LLM Text2SQL**
-<br/>
-<a href="https://github.com/KkaushikK18/Text2SQL-using-LLMs-RAG-and-Vector-DBs">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KkaushikK18&repo=Text2SQL-using-LLMs-RAG-and-Vector-DBs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=c9d1d9&icon_color=BB9AF7" />
-</a>
+## Tech stack
 
-</td>
-<td width="50%">
+<div align="center">
 
-**// AI behavior anomaly detection**
-<br/>
-<a href="https://github.com/KkaushikK18/Sentin-AI-AI-Powered-Behavior-Anamoly-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KkaushikK18&repo=Sentin-AI-AI-Powered-Behavior-Anamoly-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=c9d1d9&icon_color=BB9AF7" />
-</a>
+**Languages**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+![Python](https://img.shields.io/badge/Python-172B3A?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-172B3A?style=flat-square&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-172B3A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-172B3A?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-**// Deep learning image forgery detection**
-<br/>
-<a href="https://github.com/KkaushikK18/Image-Forgery-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KkaushikK18&repo=Image-Forgery-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=c9d1d9&icon_color=BB9AF7" />
-</a>
+**ML / DL / GenAI**
 
-</td>
-<td width="50%">
+![PyTorch](https://img.shields.io/badge/PyTorch-172B3A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-172B3A?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-172B3A?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-172B3A?style=flat-square&logo=pandas&logoColor=150458)
+![OpenCV](https://img.shields.io/badge/OpenCV-172B3A?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![LangChain](https://img.shields.io/badge/LangChain-172B3A?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-172B3A?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![RAG](https://img.shields.io/badge/RAG-172B3A?style=flat-square)
 
-**// Full-stack applications**
+**Backend / Tools**
 
-<a href="https://github.com/KkaushikK18/Job-Portal">Job Portal</a> · <a href="https://github.com/KkaushikK18/BloodBond">BloodBond</a> · <a href="https://github.com/KkaushikK18/Credit-Score">Credit Score</a>
+![FastAPI](https://img.shields.io/badge/FastAPI-172B3A?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-172B3A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-172B3A?style=flat-square&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-172B3A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-172B3A?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-172B3A?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-172B3A?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-172B3A?style=flat-square&logo=linux&logoColor=FCC624)
 
-</td>
-</tr>
+</div>
+
+## Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Text2SQL with LLMs + RAG</h3>
+      <p>Natural-language-to-SQL workflow using schema retrieval, embeddings, FAISS, LLM-based SQL generation, validation, and database execution.</p>
+      <a href="https://github.com/KkaushikK18/Text2SQL-using-LLMs-RAG-and-Vector-DBs">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Sentin AI</h3>
+      <p>AI-powered behavior anomaly detection project focused on identifying unusual patterns from data.</p>
+      <a href="https://github.com/KkaushikK18/Sentin-AI-AI-Powered-Behavior-Anamoly-Detection">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Image Forgery Detection</h3>
+      <p>Deep-learning image manipulation detection using computer-vision techniques and model interpretability.</p>
+      <a href="https://github.com/KkaushikK18/Image-Forgery-Detection">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full-stack applications</h3>
+      <p>Web applications combining backend services, databases, and user-facing interfaces.</p>
+      <a href="https://github.com/KkaushikK18/Job-Portal">Job Portal</a> ·
+      <a href="https://github.com/KkaushikK18/BloodBond">BloodBond</a> ·
+      <a href="https://github.com/KkaushikK18/Credit-Score">Credit Score</a>
+    </td>
+  </tr>
 </table>
 
-<br/>
+<details>
+  <summary><strong>More repositories</strong></summary>
 
-## `$ find . -maxdepth 1 -type d`
+  - **AI / ML:** [Movie Recommendation](https://github.com/KkaushikK18/Movie-Recommendation), [AI Risk Prediction Engine](https://github.com/KkaushikK18/AI-Driven-Risk-Prediction-Engine-for-Chronic-Care-Patients)
+  - **Computer Science:** [DSA](https://github.com/KkaushikK18/DSA), [A* Path Finder](https://github.com/KkaushikK18/AStarPathFinder)
+  - **NLP:** [Text Preprocessing Basics](https://github.com/KkaushikK18/textPreprocessingBasicsNLP), [TensorTonic Solutions](https://github.com/KkaushikK18/TensorTonic-Solutions)
+</details>
 
-Some of the other repositories I work on:
-
-- **AI / ML:** [Movie Recommendation](https://github.com/KkaushikK18/Movie-Recommendation), [AI Risk Prediction Engine](https://github.com/KkaushikK18/AI-Driven-Risk-Prediction-Engine-for-Chronic-Care-Patients)
-- **Backend / Full Stack:** [Job Portal](https://github.com/KkaushikK18/Job-Portal), [BloodBond](https://github.com/KkaushikK18/BloodBond), [Credit Score](https://github.com/KkaushikK18/Credit-Score)
-- **Computer Science:** [DSA](https://github.com/KkaushikK18/DSA), [A* Path Finder](https://github.com/KkaushikK18/AStarPathFinder)
-- **NLP / GenAI:** [Text Preprocessing Basics](https://github.com/KkaushikK18/textPreprocessingBasicsNLP), [TensorTonic Solutions](https://github.com/KkaushikK18/TensorTonic-Solutions)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## `$ ./github-stats.sh --run`
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KkaushikK18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=c9d1d9" />
-<img height="165" src="https://streak-stats.demolab.com/?user=KkaushikK18&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KkaushikK18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79A6B8&icon_color=79A6B8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://streak-stats.demolab.com?user=KkaushikK18&hide_border=true&background=0D1117&ring=79A6B8&fire=C58B72&currStreakLabel=79A6B8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KkaushikK18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=KkaushikK18&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KkaushikK18&layout=compact&hide_border=true&bg_color=0D1117&title_color=79A6B8&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
 
-<br/>
-
-## `$ contribution-snake --render`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/KkaushikK18/KkaushikK18/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## `$ echo $CONNECT`
+## Contribution snake
 
 <div align="center">
 
-<a href="https://kaushik18portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-<a href="mailto:kaushikk06703@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-F7768E?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-<a href="https://github.com/KkaushikK18"><img src="https://img.shields.io/badge/Follow-BB9AF7?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+<!-- Generated by .github/workflows/snake.yml and published to the output branch. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KkaushikK18/KkaushikK18/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KkaushikK18/KkaushikK18/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake eating the contribution graph" src="https://raw.githubusercontent.com/KkaushikK18/KkaushikK18/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1F2937,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
+---
 
 <div align="center">
-<i>Thanks for stopping by — explore the repositories above and see what I'm building.</i>
+
+**Interested in AI engineering, useful software, and thoughtful collaboration.**
+
+[Portfolio](https://kaushik18portfolio.vercel.app/) · [Email](mailto:kaushikk06703@gmail.com) · [GitHub](https://github.com/KkaushikK18)
+
+<sub>Thanks for visiting. Feel free to explore my repositories.</sub>
+
 </div>
