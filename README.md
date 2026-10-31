@@ -19,7 +19,7 @@
 
 ## About
 
-I'm a Computer Science undergraduate at **VIT Chennai (Class of 2027)** interested in building reliable, end-to-end software with a focus on **Machine Learning, Deep Learning, and Generative AI**.
+I'm interested in building reliable, end-to-end software with a focus on **Machine Learning, Deep Learning, and Generative AI**.
 
 - Exploring LLM applications, retrieval-augmented generation, and Text-to-SQL systems.
 - Building with PyTorch and computer vision, including image-forgery detection.
