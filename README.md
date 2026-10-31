@@ -28,13 +28,11 @@ I'm a Computer Science undergraduate at **VIT Chennai (Class of 2027)** interest
 
 ## Tech stack
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Python · C++ · JavaScript · SQL |
-| **ML / DL** | PyTorch · scikit-learn · NumPy · Pandas · OpenCV |
-| **GenAI** | LLMs · RAG · LangChain · Hugging Face · Embeddings |
-| **Backend** | FastAPI · Node.js · Express.js · MongoDB |
-| **Tools** | Git · Docker · AWS · Linux · Streamlit |
+<div align="center">
+
+<img src="./assets/tech-stack.svg" width="100%" alt="Programming languages, machine learning, GenAI, backend and platform technologies" />
+
+</div>
 
 ## Selected projects
 
